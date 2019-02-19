@@ -8,6 +8,9 @@ Contents of the sections
   - [Q-Learning](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.80.7501&rep=rep1&type=pdf)
   - [Optimistic Q-Learning](http://papers.nips.cc/paper/1944-convergence-of-optimistic-and-incremental-q-learning.pdf)
   
+  Lesson: Solve OpenAI Gym's Taxi-v2 Task
+  - [Hierarchical Reinforcement Learning with the MAXQ Value
+Function Decomposition](https://arxiv.org/pdf/cs/9905014.pdf)
 ## 2. Value-Based Methods
 ## 3. Policy-Based Methods
 ## 4. Multi-Agent Reinforcement Learning
