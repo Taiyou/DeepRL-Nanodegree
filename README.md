@@ -50,3 +50,9 @@ learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
 
 ## 3. Policy-Based Methods
 ## 4. Multi-Agent Reinforcement Learning
+
+# Extracurricular
+## 1. Special Topics in Deep Reinforcement Learning
+## 2. Neural Networks in PyTorch
+## 3. Computing Resources
+## 4. C++ Programming
