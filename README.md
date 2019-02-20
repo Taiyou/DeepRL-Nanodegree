@@ -32,6 +32,21 @@ learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
 
   Opportunities
   - [UC Berkeley Course](http://rail.eecs.berkeley.edu/deeprlcourse/)
+  
+  Deep Q-networks (DQN)
+  - Experience Relay: [A Deeper Look at Experience Replay](https://arxiv.org/abs/1712.01275)
+  - Fixed Q Targets:
+  - Doueble DQN: [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)
+  - Prioritized Experience Replay: [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
+    - Some transition information should be sampled.
+  - Dueling Network [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)
+    - Pros:
+  
+  Some other proposed methods
+  - Rainbow: [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/abs/1710.02298)
+  - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
+  - Distribution DQN: [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887)
+  - Noisy DQN: [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295)
 
 ## 3. Policy-Based Methods
 ## 4. Multi-Agent Reinforcement Learning
