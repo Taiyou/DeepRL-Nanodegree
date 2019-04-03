@@ -15,3 +15,12 @@ For discrete actions
 - 3: turn right
 
 Similart to this enviroment: [Unity ML-Agents Github page](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector)
+
+Step1: DRLND repository
+[Instructions in the DRLND GitHub repository ](https://github.com/udacity/deep-reinforcement-learning#dependencies)
+
+By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
+
+Step2: Download the Unity Environment
+Step3: Expplore the Environment
+'Navigation.ipynb'
