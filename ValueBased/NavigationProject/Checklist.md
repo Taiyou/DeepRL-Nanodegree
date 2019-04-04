@@ -1,8 +1,7 @@
-# Step 1:
-  1. creat a new environment with Python 3.6
-    
-    ```python
-    conda creat --name drlnd python 3.6
-    source activate drlnd
-    ```
-  2.
+# NavigationProject
+This project is to navigate an agent to maximize accumulated returns from yellow bananas while avoiding blue bananas.
+
+# getting started
+```bash
+pip install -r requirements.txt
+```
