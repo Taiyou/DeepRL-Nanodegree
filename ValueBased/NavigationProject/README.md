@@ -1,5 +1,6 @@
 # Navigation Project
 I will train an agent to navigate in large square world.
+![Trained Subjects](TrainedDQN.gif)
 
 The goal of my agent is to collect as many yellow bananas as possbile while avoiding blue bananas.
 
