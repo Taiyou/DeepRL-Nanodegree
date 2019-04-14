@@ -1,5 +1,6 @@
 # P2: Continuous control project
 I will train agents to track balls with different speed.
+
 ![Continuous control](giphy.gif)
 
 The goal of my agents is to keep the goal state hitting balls.
