@@ -12,7 +12,9 @@ For actions, a vector corresponding to two joints' torque
 - the number between -1 and 1.
 
 ## Getting started:
-pip install - r requirement.txt
+```bash
+pip install -r requirements.txt
+```
 
 ## Intructions
 Please check the detail in 'Continuous_Control.ipynb' file.
