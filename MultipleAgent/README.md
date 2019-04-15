@@ -1,6 +1,8 @@
 # P3. Collaboration and Competition
 I will train agents to play tennis to keep as long rally as possible.
 
+![Rally](gifpy.gif)
+
 The goal of my agents is to keep the goal state hitting balls.
 - Reward = +0.1 if an agent hits the ball over the net
 - Reward = -0.01 if an agent lets a ball hit the ground or hits the ball out of bounds. 
