@@ -26,4 +26,4 @@ Two Agents
 ### 3. start the program
 
 You can run a program to train agents.
-Please check the detail in 'Continuous_Control.ipynb' file.
+Please check the detail in 'Tennis.ipynb' file.
